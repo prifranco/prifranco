@@ -1,6 +1,6 @@
 ## Olá, eu sou a Priscila Franco
 
-Tenho 22 anos, atualemnte sou estudante de análise e desenvolvimento de Sistemas e viciada nos cursos da Alura.  
+Tenho 22 anos, atualmente sou estudante de análise e desenvolvimento de Sistemas e viciada nos cursos da Alura.  
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/913352f673b67c58cef06b8edd5c8ab9.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
 
@@ -14,7 +14,7 @@ Tenho 22 anos, atualemnte sou estudante de análise e desenvolvimento de Sistema
   
   <div> 
   <a href="https://www.instagram.com/pri.frannco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/prisquila" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/prisquila" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:prisciladsfranco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/priscila-franco-2b9075235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
