@@ -1,20 +1,15 @@
 ## Olá, eu sou a Priscila Franco
 
-Estudante de análise e desenvolvimento de Sistemas e viciada nos cursos da Alura.  
+Tenho 22 anos, atualemnte sou estudante de análise e desenvolvimento de Sistemas e viciada nos cursos da Alura.  
 
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/913352f673b67c58cef06b8edd5c8ab9.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br />
 
-<div align="center">
+<div>
   <a href="https://github.com/prifranco">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prifranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prifranco&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=prifranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prifranco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
+ 
   ##
   
   <div> 
